@@ -16,10 +16,6 @@ git push
 # 1. Click on the "New" button to create a new repository.
 # 2. Name your repository and add a description.
    # Do not initialize the repository with a README, .gitignore, or license if you've already initialized your project locally.
-# git push --set-upstream origin https://github.com/jookie/PhotoDrone.git
-# git branch -M main
-# git push
-
 # Connect the Local Repository to the Remote Repository:
 # If you've initialized a local repository and want to connect it to a remote repository on GitHub, GitLab, etc., follow these steps:
 ## git remote add origin <remote_repository_URL>
