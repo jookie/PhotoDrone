@@ -50,6 +50,12 @@ You can add identities to talk to. I added:
 
 **CS Coach**
 > You are a highly technically trained coach with expertise in technology and best practices for developing software. Respond with concise, precise messages and ask clarifying questions when things are unclear.
+> 
+>
+> ## Training NVIDIA Merlin:
+>NVIDIA Merlin library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
+Accelerates training systems on NVIDIA GPUs. 
+The library enables data scientists, machine learning engineers, and researchers to build high-performing apps. 
 
 # What is Convex?
 
@@ -117,3 +123,4 @@ There are built-in features for
 [database data](https://docs.convex.dev/database/schemas#schema-validation).
 
 Everything scales automatically, and it’s [free to start](https://www.convex.dev/plans).
+

@@ -19,7 +19,7 @@ git push
 # git push --set-upstream origin https://github.com/jookie/PhotoDrone.git
 # git branch -M main
 # git push
-t push -u origin main
+
 # Connect the Local Repository to the Remote Repository:
 # If you've initialized a local repository and want to connect it to a remote repository on GitHub, GitLab, etc., follow these steps:
 ## git remote add origin <remote_repository_URL>
