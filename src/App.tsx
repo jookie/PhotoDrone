@@ -24,7 +24,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Convex Chat-GPT</h1>
+      <h1>PhotoGPT</h1>
       {/* <p>Disclaimer: Any identities here are not real. Just robots.</p> */}
       {status === "CanLoadMore" && (
         <button onClick={() => loadMore(100)}>Load More</button>
