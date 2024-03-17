@@ -1,11 +1,9 @@
 # git init
 # export PATH=/usr/local/share/npm/bin:$PATH
-
 # git checkout -b my-new-branch
 # git add .
 # git commit -m "Your commit message"
 # git push --set-upstream origin https://github.com/jookie/PhotoDrone.git
-
 git add .
 git commit -m "Initial commit"
 git push 
