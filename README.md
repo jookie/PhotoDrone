@@ -26,6 +26,17 @@
 <h5> Software as a Service (SaaS)</h5>
 </div>
 
+# Software as a Service (SaaS)
+
+## 🗒️ Answer
+1. Software as a Service (SaaS) cloud computing model where software applications are hosted and provided to users over the internet, typically on a subscription basis [[1](https://www.techtarget.com/searchcloudcomputing/definition/Software-as-a-Service)]. 
+2. Users access SaaS applications through web browsers, mobile apps, or thin clients, eliminating the need for on-premises software installation and maintenance [[2](https://www.ibm.com/topics/saas)]. 
+
+## 🌐 Sources
+- [techtarget.com - What is SaaS (Software as a Service)? Everything You ...](https://www.techtarget.com/searchcloudcomputing/definition/Software-as-a-Service)
+- [ibm.com - What Is Software as a Service (SaaS)?What is SaaS? Software as a ServiceWhat is SaaS (Software as a Service)?What Is Software as a Service (SaaS)? Definition and ...What Is SaaS? - Software as a Service DefinitionSoftware as a Service (SaaS) - Cloud Information CenterWhat is SaaS? | SaaS definitionWhat is SaaS? - Software as a Service Explained](https://www.ibm.com/topics/saas)
+
+
 PhotoChat is a Software as a Service (SaaS) platform that integrates OpenCV's powerful computer vision capabilities with pretrained models utilizing various GPT technologies. 
 It facilitates advanced functionalities such as face detection and recognition using OpenCV[[2](https://www.linkedin.com/pulse/building-advanced-face-detection-recognition-system-beoec)], 
 while also leveraging GPT technology for other tasks such as natural language understanding and generation[[1](https://platform.openai.com/docs/models)]. 
