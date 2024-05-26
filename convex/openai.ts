@@ -7,15 +7,13 @@ import {
 } from "openai";
 import { action } from "./_generated/server";
 import { v } from "convex/values";
-
-if (!process.env.OPENAI_API_KEY) {
-  throw new Error(
-    "Missing OPENAI_API_KEY in environment variables.\n" +
-      "Set it in the project settings in the Convex dashboard:\n" +
-      "    npx convex dashboard\n or https://dashboard.convex.dev"
-  );
-}
-
+//if (!process.env.OPENAI_API_KEY) {
+//   throw new Error(
+//     "Missing OPENAI_API_KEY in environment variables.\n" +
+//       "Set it in the project settings in the Convex dashboard:\n" +
+//       "    npx convex dashboard\n or https://dashboard.convex.dev"
+//   );
+//}
 export const moderateIdentity = action({
   args: { name: v.string(), instructions: v.string() },
   handler: async (ctx, { name, instructions }) => {
